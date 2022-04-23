@@ -1,0 +1,11 @@
+.button-container {
+    flex: 1 1 auto;
+    text-align: center;
+    margin: 0px 20px;
+    border: var(--botton-border);
+    font-size: var(--button-text-size);
+    background-color: rgba(137, 43, 226, 0.267);
+}
+.button-container:hover {
+    cursor: pointer;
+}
